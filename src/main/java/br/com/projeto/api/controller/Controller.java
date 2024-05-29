@@ -2,7 +2,7 @@ package br.com.projeto.api.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.projeto.api.Service.Servicee;
+import br.com.projeto.api.service.Servicee;
 import br.com.projeto.api.model.Client;
 import br.com.projeto.api.model.User;
 import br.com.projeto.api.repository.Repositoryy;
